@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48979f000e2d6c976ff312caa72b11c7",
+    "revision": "42eda5bb450884862d9fc8ec706b17b2",
     "url": "/vezdekod-hf-web/index.html"
   },
   {
-    "revision": "d056f339d18a9d347628",
+    "revision": "73caf470d6dd8a98fd9c",
     "url": "/vezdekod-hf-web/static/css/main.a1107254.chunk.css"
   },
   {
-    "revision": "d7867b02c06b0529dfa4",
-    "url": "/vezdekod-hf-web/static/js/2.07c98cc5.chunk.js"
+    "revision": "e8fd5bd48b7abe2dfbb4",
+    "url": "/vezdekod-hf-web/static/js/2.b4cabb5a.chunk.js"
   },
   {
     "revision": "41b66b6fd6eecba581340794bb1831be",
-    "url": "/vezdekod-hf-web/static/js/2.07c98cc5.chunk.js.LICENSE.txt"
+    "url": "/vezdekod-hf-web/static/js/2.b4cabb5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d056f339d18a9d347628",
-    "url": "/vezdekod-hf-web/static/js/main.f014b63a.chunk.js"
+    "revision": "73caf470d6dd8a98fd9c",
+    "url": "/vezdekod-hf-web/static/js/main.0e53168b.chunk.js"
   },
   {
-    "revision": "a11e8486537b6a66976c",
-    "url": "/vezdekod-hf-web/static/js/runtime-main.148c24ca.js"
+    "revision": "459a54e78380f585b86e",
+    "url": "/vezdekod-hf-web/static/js/runtime-main.d98dd53a.js"
   },
   {
     "revision": "dfc54362fc2b0f7b99a4038b87dd9e64",
