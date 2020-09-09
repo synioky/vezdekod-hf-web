@@ -1,15 +1,14 @@
 {
   "homepage": "http://synioky.github.io/vezdekod-hf-web",
-  "name": "kozodoi-club-hack",
+  "name": "vezdekod-hf-web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
-    "surge-deploy": "npm run build && surge ./build --domain kozodoi-club-hack.surge.sh"
+    "start": "cross-env PORT=10888 react-scripts start"
   },
   "keywords": [],
   "author": "",
