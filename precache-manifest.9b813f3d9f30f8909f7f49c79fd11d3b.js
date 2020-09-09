@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73865c82974e9e4df7872566d8249e51",
+    "revision": "3cdf9d1161548a24cbeb39614ff338d1",
     "url": "/vezdekod-hf-web/index.html"
   },
   {
